@@ -6,9 +6,9 @@ public class CircleDemo {
     c.setRadius(10.4);
     c.show(c.getRadius(), c.findArea());
 
-    Circle yourC = new Circle();
-    yourC.setRadius(7.6);
-    yourC.show(yourC.getRadius(), yourC.findArea());
+//    Circle yourC = new Circle();
+//    yourC.setRadius(7.6);
+//    yourC.show(yourC.getRadius(), yourC.findArea());
   }
 }
 
