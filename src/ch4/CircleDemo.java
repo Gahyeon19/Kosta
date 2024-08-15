@@ -3,8 +3,12 @@ package ch4;
 public class CircleDemo {
   public static void main(String[] args) {
     Circle c = new Circle();
-    c.setRadius(10.0);
+    c.setRadius(10.4);
     c.show(c.getRadius(), c.findArea());
+
+    Circle myC = new Circle();
+    myC.setRadius(8.3);
+    myC.show(myC.getRadius(), myC.findArea());
   }
 }
 
