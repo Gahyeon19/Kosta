@@ -6,10 +6,6 @@ public class CircleDemo {
     c.setRadius(10.4);
     c.show(c.getRadius(), c.findArea());
 
-    Circle myC = new Circle();
-    myC.setRadius(8.3);
-    myC.show(myC.getRadius(), myC.findArea());
-
     Circle yourC = new Circle();
     yourC.setRadius(7.6);
     yourC.show(yourC.getRadius(), yourC.findArea());
