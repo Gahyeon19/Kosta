@@ -11,7 +11,7 @@ public class CircleDemo {
     myC.show(myC.getRadius(), myC.findArea());
   }
 }
-
+ 
 class Circle{
   private double radius;
   public double getRadius(){
