@@ -9,9 +9,13 @@ public class CircleDemo {
     Circle myC = new Circle();
     myC.setRadius(8.3);
     myC.show(myC.getRadius(), myC.findArea());
+
+    Circle yourC = new Circle();
+    yourC.setRadius(7.6);
+    yourC.show(yourC.getRadius(), yourC.findArea());
   }
 }
- 
+
 class Circle{
   private double radius;
   public double getRadius(){
