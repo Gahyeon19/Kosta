@@ -15,7 +15,6 @@ public class B10807 {
         count++;
       }
     }
-
     System.out.println(count);
   }
 }
