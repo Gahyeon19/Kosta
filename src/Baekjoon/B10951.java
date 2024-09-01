@@ -12,6 +12,5 @@ public class B10951 {
       int b = Integer.parseInt(s[1]);
       System.out.println(a + b);
     }
-
   }
 }
