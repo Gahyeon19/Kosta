@@ -1,23 +1,9 @@
 package Baekjoon;
 
-/*
-      4 7 2     (1)
-    * 3 8 5     (2)
---------------
-    2 3 6 0     (3)
-  3 7 7 6       (4)
-1 4 1 6         (5)
---------------
-1 8 1 7 2 0     (6)
-
-1,2 위치에 들어갈 세 자리 자연수가 주어짐.
-3,4,5,6 위치에 들어갈 값을 구하는 프로그램
- */
-
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class B11021 {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
